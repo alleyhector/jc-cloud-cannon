@@ -1,0 +1,27 @@
+.corporate {
+  margin-top: 60px;
+  margin-bottom: 60px; }
+  .corporate .left {
+    width: 40%; }
+  .corporate .heading {
+    font-size: 36px;
+    color: #00447c;
+    margin-bottom: 18px; }
+  .corporate .body {
+    font-size: 16px;
+    line-height: 148%;
+    color: #00447c;
+    margin-bottom: 18px; }
+  .corporate .clear-button {
+    -moz-border-radius: 5px;
+    -webkit-border-radius: 5px;
+    border-radius: 5px;
+    font-size: 16px;
+    padding: 10px 20px;
+    border: 1px solid #00447c;
+    color: #00447c;
+    text-decoration: none;
+    font-weight: bold; }
+  .corporate p {
+    color: #00447c;
+    font-size: 16px; }

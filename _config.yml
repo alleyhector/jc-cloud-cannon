@@ -1,0 +1,68 @@
+exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "vendor", "Gemfile", "Gemfile.lock", "Guardfile", "assets.yml"]
+highlighter: pygments
+
+title: Jekyll Static Site
+description: TODO
+url: https://tbd.com
+google-site-verification: TODO
+ga: TODO
+
+markdown: redcarpet
+redcarpet:
+  extensions: ["no_intra_emphasis", "fenced_code_blocks", "autolink", "strikethrough", "superscript", "with_toc_data", "smart"]
+
+membership-enabled: true
+post-enabled: true
+
+collections:
+  memberships:
+    output: false
+  tips:
+    output: false
+
+text:
+  city-name: Jersey City
+  hero-heading: Citi Bike is rolling into Jersey City...
+  hero-subheading: Hear the news as it happens
+  hero-button: stay informed
+  hero-image-url: /assets/images/jc-background.png
+
+  sponsors-title: A Thanks To Our Sponsors
+  sponsors-left: Title Sponsor
+  sponsors-right: Founding Sponsor
+
+  post-heading: Bike Share to Expand to Jersey City In September
+  post-subheading: FOR IMMEDIATE RELEASE
+  post-date: July 02, 2015
+  post-link: http://www.citibikenyc.com
+  post-body: "
+    New system will be 7,000 bikes strong and bring bike share to East Bay for first time.
+    New online portal suggest.bayareabikeshare.com enables residents to propose station location ideas.
+
+    JERSEY CITY - The Metropolitan Transportation Commission today voted to enter into a contract with Motivate, the nation’s largest bike share operator. Motivate will evolve the regional bike share program from a successful pilot to a robust transportation option for the region...
+
+
+    New system will be 7,000 bikes strong and bring bike share to East Bay for first time
+    New online portal suggest.bayareabikeshare.com enables residents to propose station location ideas
+
+    OAKLAND - The Metropolitan Transportation Commission today voted to enter into a contract with Motivate, the nation’s largest bike share operator. Motivate will evolve the regional bike share program from a successful pilot to a robust transportation option for the region, all at no cost to taxpayers. Under the terms of the new contract, the program will grow tenfold from 700 to 7,000 bikes in San Francisco, San Jose, Oakland, Berkeley and Emeryville — bringing bike share for the first time to the East Bay.
+    "
+
+  map-title: explore proposed stations
+  map-image-url: /assets/images/map.png
+  map-link: https://member.citibikenyc.com/map/
+
+  rides-title: 3 Different Ways to Ride
+
+  corporate-title: Corporate Memberships
+  corporate-body: Is your organization looking for a fun way to enhance the health and happiness of its employees? Citi Bike is here to help. Sign up today as a corporate and community partner and give your employees free access to thousands of bikes at hundreds of stations throughout Jersey City, Manhattan, Brooklyn and coming soon — Queens. Citi Bike is a great option for commuting as well as running errands or sneaking in a little extra exercise into our busy lives — and it’s a great way to demonstrate your corporate commitment to wellness.
+  corporate-button: get your org on board
+  corporate-extra: "Just check out the list of visonary early adopters --
+    <br />
+    **Our Charter Corporate Partners:**
+    "
+
+  bottom-footer: Use of this Website constitutes acceptance of the website [Terms of Use Agreement](http://www.citibikenyc.com/terms-of-use) and [Pricacy Policy](http://www.citibikenyc.com/privacy)
+  bottom-footer-copyright: "Copyright 2013 - 2015 Motivate International, Inc. All rights reserved.<br />
+    Citi, Citi with Arc Design and Citi Bike are registered trademarks of Citigroup, Inc
+    "

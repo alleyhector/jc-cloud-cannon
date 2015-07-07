@@ -1,0 +1,66 @@
+@import "base"
+
+$height: 444px
+
+.hero
+  background: url(/assets/images/background.png)
+  background-repeat: repeat-x
+  height: $height
+  position: relative
+  margin-bottom: 100px
+  .hero-background
+    position: absolute
+    top: 0px
+    right: 0px
+    height: $height
+    overflow: hidden
+  h1
+    font-size: 64px
+    color: #fff
+    line-height: 120%
+    margin-top: 71px
+  h2
+    font-size: 34px
+    color: #fff
+    +opacity(0.5)
+    margin-bottom: 28px
+  .left
+    width: 485px
+    position: relative
+    z-index: 3
+  .right
+    position: absolute
+    right: 125px
+    top: 38px
+    z-index: 2
+    width: 100%
+    text-align: right
+    > img
+      max-height: 610px
+    .motivate-label
+      position: absolute
+      bottom: 121px
+      right: 80px
+      color: $light-grey
+      font-weight: bold
+      font-size: 12px
+  input[type=text], input[type=submit]
+    display: inline-block
+    vertical-align: top
+  input[type=text]
+    border-radius: 5px 0px 0px 5px
+    background: #fff
+    padding: 9px 14px
+    height: 30px
+    font-size: 18px
+    border: 0px solid #fff
+  input[type=submit]
+    border: 0px solid #fff
+    color: #fff
+    border-radius: 0px 5px 5px 0px
+    background: $light-blue
+    height: 48px
+    font-weight: bold
+    margin-left: -6px
+    padding: 9px 14px
+    font-size: 18px

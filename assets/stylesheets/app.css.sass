@@ -1,0 +1,62 @@
+@import "base"
+
+body
+  padding: 0px
+  margin: 0px
+  letter-spacing: 0.01rem
+  font-weight: 400
+  font-style: normal
+  font-size: 20px
+  line-height: 1.6em
+  background: #fff
+  text-rendering: optimizeLegibility
+  -webkit-font-smoothing: antialiased
+  -moz-osx-font-smoothing: grayscale
+  font-smoothing: antialiased
+  font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif
+  width: 100%
+
+h1, h2, h3, h4, h5, h6
+  margin: 0 0 20px
+
+p, ul, ol, table, pre, dl
+  margin: 0 0 20px
+
+h1, h2
+  line-height: 148%
+  font-weight: normal
+
+h1
+  font-size: 28px
+
+h2
+  font-size: 18px
+
+h3
+  margin-bottom: 3px
+
+a
+  font-weight: 400
+  color: $light-blue
+
+img
+  max-width: 100%
+
+hr
+  border: 0px solid
+  border-bottom: 1px solid
+  border-color: $light-grey
+
+.clearfix
+  +clearfix
+
+.content
+  width: 95%
+  max-width: 1200px
+  margin: 0px auto
+  position: relative
+
+.left, .right
+  display: inline-block
+  vertical-align: top
+  width: 49%
