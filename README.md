@@ -10,16 +10,8 @@ to this repository.
 
 ## Editing content
 
-The site is simply a group of markdown files that get combined with some
-html to form a website. Simply edit the html and commit the changes.
-
-### Adding images
-
-[This site](http://solutionoptimist.com/2013/12/28/awesome-github-tricks/)
-has a pretty good description of how best to add new images to the
-site without writing any code. You basically create a new Github Issue
-and upload the image there. Copy the url from the image and use the url for
-something like a new team member's image.
+The site is simply a config file and a group of markdown files that get combined with some
+html to form a website. Simply edit the html/config files and commit the changes.
 
 ## Editing the code
 
