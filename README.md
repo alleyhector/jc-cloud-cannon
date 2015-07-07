@@ -32,6 +32,8 @@ Javascript, first [clone this repository](http://rogerdudler.github.io/git-guide
 
 Then `cd` into the directory and edit the relevant .sass file.
 
+If you do not have ruby installed, install [rvm](https://rvm.io/rvm/install) and the version required in this apps ruby-env file. Then run `gem install bundler`.
+
 When you're ready to see your changes, run:
 
 ```bash
