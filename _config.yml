@@ -22,6 +22,10 @@ collections:
     output: false
 
 text:
+  twitter: https://twitter.com/CitiBikeJC
+  facebook: www.facebook.com/CitiBikeJC
+  instagram: https://instagram.com/citibikejc
+
   city-name: Jersey City
   hero-heading: Citi Bike is rolling into Jersey City...
   hero-subheading: Hear the news as it happens
@@ -65,7 +69,7 @@ text:
     **Our Charter Corporate Partners:**
     "
 
-  bottom-footer: Use of this Website constitutes acceptance of the website [Terms of Use Agreement](http://www.citibikenyc.com/terms-of-use) and [Pricacy Policy](http://www.citibikenyc.com/privacy)
+  bottom-footer: Use of this Website constitutes acceptance of the website [Terms of Use Agreement](http://www.citibikenyc.com/terms-of-use) and [Privacy Policy](http://www.citibikenyc.com/privacy)
   bottom-footer-copyright: "Copyright 2013 - 2015 Motivate International, Inc. All rights reserved.<br />
     Citi, Citi with Arc Design and Citi Bike are registered trademarks of Citigroup, Inc
     "
