@@ -13,6 +13,7 @@ redcarpet:
 
 membership-enabled: true
 post-enabled: true
+login-enabled: false
 
 collections:
   memberships:
@@ -57,7 +58,8 @@ text:
   corporate-title: Corporate Memberships
   corporate-body: Is your organization looking for a fun way to enhance the health and happiness of its employees? Citi Bike is here to help. Sign up today as a corporate and community partner and give your employees free access to thousands of bikes at hundreds of stations throughout Jersey City, Manhattan, Brooklyn and coming soon — Queens. Citi Bike is a great option for commuting as well as running errands or sneaking in a little extra exercise into our busy lives — and it’s a great way to demonstrate your corporate commitment to wellness.
   corporate-button: get your org on board
-  corporate-link: http://www.citibikenyc.com/business-signup/enrollment
+  corporate-link: https://docs.google.com/a/motivateco.com/forms/d/1BcQQR9WDVTZ1PEcgc5QLXTBXzwny8Eb27aAjXoKOIJE/viewform
+  corporate-learn-more-link: https://www.citibikenyc.com/assets/pdf/Citi_Bike_Jersey_City_Charter_Corporate_Partner.pdf
   corporate-extra: "Just check out the list of visonary early adopters --
     <br />
     **Our Charter Corporate Partners:**
