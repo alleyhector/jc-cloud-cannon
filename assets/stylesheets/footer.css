@@ -21,8 +21,8 @@
     display: inline-block;
     margin: 0px 50px; }
     .social-footer a.instagram, .social-footer a.facebook {
-      filter: progid:DXImageTransform.Microsoft.Alpha(Opacity=50);
-      opacity: 0.5; }
+      filter: progid:DXImageTransform.Microsoft.Alpha(Opacity=40);
+      opacity: 0.4; }
     .social-footer a img {
       margin: 0px 20px;
       filter: grayscale(100%);
