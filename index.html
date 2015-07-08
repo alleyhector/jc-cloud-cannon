@@ -1,0 +1,20 @@
+---
+layout: default
+---
+
+{% include hero.html %}
+{% include sponsors.html %}
+
+{% if site.post-enabled %}
+{% include post.html %}
+{% endif %}
+
+{% include map.html %}
+
+{% if site.membership-enabled %}
+{% include membership.html %}
+{% endif %}
+
+{% include how-it-works.html %}
+{% include corporate.html %}
+{% include footer.html %}

@@ -1,0 +1,36 @@
+@import "base"
+
+.membership
+  text-align: center
+  .heading
+    font-size: 36px
+    color: $title-blue
+    margin-bottom: 50px
+  .membership
+    display: inline-block
+    margin-right: 30px
+    width: 300px
+    background: $background-grey
+    text-align: center
+    padding-bottom: 40px
+    &:last-child
+      margin-right: 0px
+    .image
+      height: 300px
+      background-image-size: cover
+      width: 300px
+    .title
+      margin-top: 20px
+      font-size: 20px
+      color: $grey
+    .description
+      font-size: 14px
+      line-height: 148%
+      color: $grey
+      padding: 0px 32px
+    a
+      +border-radius(5px)
+      border: 1px solid $title-blue
+      color: $title-blue
+      padding: 10px 20px
+      text-decoration: none

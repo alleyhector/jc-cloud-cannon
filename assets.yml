@@ -1,0 +1,8 @@
+javascripts:
+  application:
+    - assets/javascripts/app.js
+
+stylesheets:
+  application:
+    - assets/stylesheets/normalize.css
+    - assets/stylesheets/app.css

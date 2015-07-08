@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: http://www.TODO.com/sitemap.xml
