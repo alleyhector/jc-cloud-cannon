@@ -24,7 +24,8 @@
     .membership .membership .description {
       font-size: 14px;
       line-height: 148%;
-      color: #555; }
+      color: #555;
+      padding: 0px 32px; }
     .membership .membership a {
       -moz-border-radius: 5px;
       -webkit-border-radius: 5px;

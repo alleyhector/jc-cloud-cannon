@@ -59,3 +59,14 @@ hr {
   display: inline-block;
   vertical-align: top;
   width: 49%; }
+
+@font-face {
+  font-family: "expresswaylight";
+  src: url(/assets/fonts/expresswaylt-webfont.eot) format('embedded-opentype'), url(/assets/fonts/expresswaylt-webfont.eot) format('embedded-opentype'), url(/assets/fonts/expresswaylt-webfont.woff2) format('woff2'), url(/assets/fonts/expresswaylt-webfont.woff) format('woff'), url(/assets/fonts/expresswaylt-webfont.ttf) format('truetype'), url(/assets/fonts/expresswaylt-webfont.svg#expresswaylight) format('svg'); }
+.expressway {
+  font-family: "expresswaylight"; }
+
+.boing {
+  font-family: Arial;
+  font-weight: bold;
+  font-style: normal; }

@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'expresswaylight';
+    src: url('expresswaylt-webfont.eot');
+    src: url('expresswaylt-webfont.eot?#iefix') format('embedded-opentype'),
+         url('expresswaylt-webfont.woff2') format('woff2'),
+         url('expresswaylt-webfont.woff') format('woff'),
+         url('expresswaylt-webfont.ttf') format('truetype'),
+         url('expresswaylt-webfont.svg#expresswaylight') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}

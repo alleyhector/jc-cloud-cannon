@@ -14,13 +14,15 @@
     font-size: 64px;
     color: #fff;
     line-height: 120%;
-    margin-top: 71px; }
+    margin-top: 71px;
+    letter-spacing: 3px; }
   .hero h2 {
     font-size: 34px;
     color: #fff;
     filter: progid:DXImageTransform.Microsoft.Alpha(Opacity=50);
     opacity: 0.5;
-    margin-bottom: 28px; }
+    margin-bottom: 28px;
+    letter-spacing: 1px; }
   .hero .left {
     width: 485px;
     position: relative;
