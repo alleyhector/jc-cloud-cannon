@@ -6,12 +6,3 @@ stylesheets:
   application:
     - assets/stylesheets/normalize.css
     - assets/stylesheets/app.css
-    - assets/stylesheets/header.css
-    - assets/stylesheets/hero.css
-    - assets/stylesheets/sponsors.css
-    - assets/stylesheets/post.css
-    - assets/stylesheets/map.css
-    - assets/stylesheets/membership.css
-    - assets/stylesheets/how-it-works.css
-    - assets/stylesheets/corporate.css
-    - assets/stylesheets/footer.css
