@@ -4,9 +4,11 @@
             <img class="logo" src="/assets/images/logos/citibike.png" />
             <div class="city-name expressway">{{ site.text.city-name }}</div>
         </div>
+        {% if site.login-enabled %}
         <div class="right">
             <a class="boing" href="https://member.citibikenyc.com/profile/login">login</a>
             <a class="button boing" href="https://member.citibikenyc.com/register/step1">join</a>
         </div>
+        {% endif %}
     </div>
 </header>
