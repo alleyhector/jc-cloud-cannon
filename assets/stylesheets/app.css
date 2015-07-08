@@ -194,29 +194,29 @@ header {
     margin-left: 35px;
     border-left: 2px solid #9e9e9e; }
 
-.post.content {
+.post {
   margin-top: 50px; }
-  .post.content .left {
+  .post .left {
     width: 26%;
     margin-right: 3%; }
-  .post.content .right {
+  .post .right {
     width: 70%; }
-  .post.content .post-heading {
+  .post .post-heading {
     color: #00447c;
     font-size: 24px; }
-  .post.content .post-subheading, .post.content .post-date {
+  .post .post-subheading, .post .post-date {
     font-size: 16px;
     color: #555; }
-  .post.content .post-body {
+  .post .post-body {
     font-size: 16px;
     color: #555;
     height: 200px;
     overflow: hidden;
     line-height: 148%; }
-  .post.content a {
+  .post a {
     font-weight: bold;
     text-decoration: none; }
-  .post.content .cover-gradient {
+  .post .cover-gradient {
     background: linear-gradient(to bottom, rgba(255, 255, 255, 0) 0%, #ffffff 100%);
     height: 50px;
     margin-top: -50px;
