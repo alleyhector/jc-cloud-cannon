@@ -146,6 +146,7 @@ header {
     .hero .right > img {
       max-height: 610px; }
     .hero .right .motivate-label {
+      pointer-events: all;
       position: absolute;
       bottom: 121px;
       right: 80px;
