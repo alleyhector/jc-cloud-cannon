@@ -33,14 +33,7 @@ $ bundle install
 $ jekyll serve --watch
 ```
 
-That will give you a version of the site running locally, which you can see by opening a browser and navigating to "localhost:4000". Now, open up another terminal tab (cmd+t) and initiate Guard to compile your edited coffeescript and sass files.
-
-```bash
-$ bundle exec guard
-$ all
-```
-
-After this is done, refresh the local version of the site; your CSS should have compiled.
+That will give you a version of the site running locally, which you can see by opening a browser and navigating to "localhost:4000"
 
 ### Editing templates
 

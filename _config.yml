@@ -7,6 +7,10 @@ url: https://www.citibikejc.com
 google-site-verification: TODO
 ga: TODO
 
+sass:
+  style: :compressed
+  sass_dir: assets/stylesheets
+
 markdown: redcarpet
 redcarpet:
   extensions: ["no_intra_emphasis", "fenced_code_blocks", "autolink", "strikethrough", "superscript", "with_toc_data", "smart"]
