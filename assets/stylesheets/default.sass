@@ -62,7 +62,10 @@ hr
   vertical-align: top
   width: 49%
 
-@include font-face("expresswaylight", font-files('/assets/fonts/expresswaylt-webfont.eot', '/assets/fonts/expresswaylt-webfont.eot', '/assets/fonts/expresswaylt-webfont.woff2', '/assets/fonts/expresswaylt-webfont.woff', '/assets/fonts/expresswaylt-webfont.ttf', '/assets/fonts/expresswaylt-webfont.svg#expresswaylight'))
+@font-face
+  font-family: 'expresswaylight'
+  src: url('/assets/fonts/expresswaylt-webfont.eot')
+  src: url('/assets/fonts/expresswaylt-webfont.eot?#iefix') format('embedded-opentype'), url('/assets/fonts/expresswaylt-webfont.woff2') format('woff2'), url('/assets/fonts/expresswaylt-webfont.woff') format('woff'), url('/assets/fonts/expresswaylt-webfont.ttf')  format('truetype'), url('/assets/fonts/expresswaylt-webfont.svg#svgFontName') format('svg')
 
 .expressway
   font-family: 'expresswaylight'
