@@ -59,9 +59,9 @@ text:
     OAKLAND - The Metropolitan Transportation Commission today voted to enter into a contract with Motivate, the nation’s largest bike share operator. Motivate will evolve the regional bike share program from a successful pilot to a robust transportation option for the region, all at no cost to taxpayers. Under the terms of the new contract, the program will grow tenfold from 700 to 7,000 bikes in San Francisco, San Jose, Oakland, Berkeley and Emeryville — bringing bike share for the first time to the East Bay.
     "
 
-  map-title: explore proposed stations
+  map-title: coming soon
   map-image-url: /assets/images/map.png
-  map-link: https://member.citibikenyc.com/map/?latitude=40.72129&longitude=-74.05884&zoom=14
+  map-link: false
 
   rides-title: 3 Different Ways to Ride
 
