@@ -35,6 +35,22 @@ $ jekyll serve --watch
 
 That will give you a version of the site running locally, which you can see by opening a browser and navigating to "localhost:4000"
 
+## Deploy
+
+Deploying is pretty simple - the basic goal is to push the new content to S3. The site is hosted on S3 and fronted by CloudFront so that it can be served over SSL.
+
+```bash
+$ export S3_ID=xxx
+$ export S3_KEY=xxxxxxx
+$ export S3_BUCKET=www.citibikejc.com
+$ bundle exec jekyll build
+$ s3_website push
+```
+
+That will deploy the site to the Citi Bike S3 bucket. Viewable [here](http://www.citibikejc.com.s3-website-us-east-1.amazonaws.com). The first time you run this you many need to install Java for [s3_website](https://github.com/laurilehmijoki/s3_website) which is written in Scala.
+
+NOTE: The actual domain is hosted on a CDN so it may take up to an hour for new content to appear on the respective domain.
+
 ### Editing templates
 
 The main homepage is index.html in the root directory of this
