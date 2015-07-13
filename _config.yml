@@ -18,6 +18,7 @@ redcarpet:
 membership-enabled: true
 post-enabled: true
 login-enabled: false
+corporate-partners-enabled: true
 
 collections:
   memberships:
@@ -70,10 +71,9 @@ text:
   corporate-button: get your org on board
   corporate-link: https://docs.google.com/a/motivateco.com/forms/d/1BcQQR9WDVTZ1PEcgc5QLXTBXzwny8Eb27aAjXoKOIJE/viewform
   corporate-learn-more-link: https://www.citibikenyc.com/assets/pdf/Citi_Bike_Jersey_City_Charter_Corporate_Partner.pdf
-  corporate-extra: "Just check out the list of visonary early adopters --
-    <br />
-    **Our Charter Corporate Partners:**
-    "
+  corporate-extra: "Our Charter Corporate Partners"
+  corporate-learn-button: learn more
+  corporate-learn-link: https://www.citibikenyc.com/assets/pdf/Citi_Bike_Jersey_City_Charter_Corporate_Partner.pdf
 
   bottom-footer: Use of this Website constitutes acceptance of the website [Terms of Use Agreement](http://www.citibikenyc.com/terms-of-use) and [Privacy Policy](http://www.citibikenyc.com/privacy)
   bottom-footer-copyright: "Copyright 2013 - 2015 Motivate International, Inc. All rights reserved.<br />
