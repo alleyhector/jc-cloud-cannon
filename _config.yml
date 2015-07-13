@@ -77,3 +77,6 @@ text:
   bottom-footer-copyright: "Copyright 2013 - 2015 Motivate International, Inc. All rights reserved.<br />
     Citi, Citi with Arc Design and Citi Bike are registered trademarks of Citigroup, Inc
     "
+
+  signup-form-url: //citibikejc.us11.list-manage.com/subscribe/post?u=db9922af61b48a75cbb0edf87&amp;id=5a1ba0a364
+  signup-form-secret: b_db9922af61b48a75cbb0edf87_5a1ba0a364
