@@ -47,7 +47,7 @@ $ bundle exec jekyll build
 $ s3_website push
 ```
 
-That will deploy the site tot the Citi Bike S3 bucket. Viewable [here](http://www.citibikejc.com.s3-website-us-east-1.amazonaws.com). The first time you run this you many need to install Java for [s3_website](https://github.com/laurilehmijoki/s3_website) which is written in Scala.
+That will deploy the site to the Citi Bike S3 bucket. Viewable [here](http://www.citibikejc.com.s3-website-us-east-1.amazonaws.com). The first time you run this you many need to install Java for [s3_website](https://github.com/laurilehmijoki/s3_website) which is written in Scala.
 
 NOTE: The actual domain is hosted on a CDN so it may take up to an hour for new content to appear on the respective domain.
 
