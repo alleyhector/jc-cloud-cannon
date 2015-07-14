@@ -1,4 +1,6 @@
 <div class="top-footer">
+    {% if site.corporate-partners-enabled %}
+    <p><b>{{ site.text.corporate-extra }}</b></p>
     <ul class="content">
         <li><img src="/assets/images/logos/westin.png" /></li>
         <li><img src="/assets/images/logos/lenox.png" /></li>
@@ -7,6 +9,7 @@
         <li><img src="/assets/images/logos/ustech.png" /></li>
         <li><img src="/assets/images/logos/marriot.png" /></li>
     </ul>
+    {% endif %}
 </div>
 <div class="social-footer">
     <a class="twitter" href="{{ site.text.twitter }}"><img src="/assets/images/logos/twitter.png" /></a>
