@@ -18,7 +18,7 @@ redcarpet:
 membership-enabled: true
 post-enabled: true
 login-enabled: false
-corporate-partners-enabled: true
+corporate-partners-enabled: false
 
 collections:
   memberships:
