@@ -35,7 +35,7 @@ text:
   hero-heading: Citi Bike is rolling into Jersey City...
   hero-subheading: Hear the news as it happens
   hero-button: stay informed
-  hero-image-url: /assets/images/jc-background.png
+  hero-image-url: /assets/images/jc-background.jpg
   signup-form-url: '//citibikejc.us11.list-manage.com/subscribe/post?u=db9922af61b48a75cbb0edf87&amp;id=5a1ba0a364'
   signup-form-secret: b_db9922af61b48a75cbb0edf87_5a1ba0a364
 
