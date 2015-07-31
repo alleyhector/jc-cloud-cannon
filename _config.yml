@@ -39,6 +39,9 @@ text:
   signup-form-url: '//citibikejc.us11.list-manage.com/subscribe/post?u=db9922af61b48a75cbb0edf87&amp;id=5a1ba0a364'
   signup-form-secret: b_db9922af61b48a75cbb0edf87_5a1ba0a364
 
+  login-link: https://member.citibikenyc.com/profile/login
+  signup-link: https://member.citibikenyc.com/offers/newmembers?promotion=jerseycity&code=citibikejc
+
   sponsors-title: A Thanks To Our Sponsors
   sponsors-left: Title Sponsor
   sponsors-right: Founding Partners
