@@ -5,7 +5,7 @@ title: Citi Bike | Your bike sharing system in New York City and Jersey City
 description: The Citi Bike system features thousands of bikes at hundreds of stations around New York City and Jersey City. Citi Bikes are available 24/7, 365 days a year.
 url: https://www.citibikejc.com
 google-site-verification: TODO
-ga: TODO
+ga: UA-17974252-20
 
 sass:
   style: :compressed
