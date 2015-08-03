@@ -23,8 +23,6 @@ corporate-partners-enabled: false
 collections:
   memberships:
     output: false
-  tips:
-    output: false
 
 text:
   twitter: https://twitter.com/CitiBikeJC
