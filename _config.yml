@@ -17,8 +17,9 @@ redcarpet:
 
 membership-enabled: true
 post-enabled: true
-login-enabled: false
+login-enabled: true
 corporate-partners-enabled: false
+map-link-enabled: true
 
 collections:
   memberships:
@@ -60,7 +61,7 @@ text:
 
   map-title: coming soon
   map-image-url: /assets/images/map.png
-  map-link: false
+  map-link: https://member.citibikenyc.com/map/
 
   rides-title: 3 Different Ways to Ride
 
