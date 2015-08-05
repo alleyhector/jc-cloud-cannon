@@ -61,7 +61,7 @@ text:
 
   map-title: explore planned stations
   map-image-url: /assets/images/map.png
-  map-link: https://member.citibikenyc.com/map/
+  map-link: https://member.citibikenyc.com/map/?latitude=40.72129&longitude=-74.05884&zoom=14
 
   rides-title: 3 Different Ways to Ride
 
