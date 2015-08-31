@@ -35,7 +35,7 @@ $ jekyll serve --watch
 
 That will give you a version of the site running locally, which you can see by opening a browser and navigating to "localhost:4000"
 
-If your trying to run jekyll inside of a VM, it might need to be served with `--host 0.0.0.0` instead of the implicit `127.0.0.1` loopback IP.
+If you are trying to run jekyll inside of a VM, it might need to be served with `--host 0.0.0.0` instead of the implicit `127.0.0.1` loopback IP.
 
 ## Deploy
 
