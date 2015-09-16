@@ -62,7 +62,7 @@ $ export S3_BUCKET=dev.citibikejc.com
 $ bundle exec jekyll build
 $ s3_website push
 ```
-http://dev.citibikejc.com.s3-website-us-east-1.amazonaws.com
+This will deploy the site [here](http://dev.citibikejc.com.s3-website-us-east-1.amazonaws.com).
 
 NOTE: The actual domain is hosted on a CDN so it may take up to an hour for new content to appear on the respective domain.
 
