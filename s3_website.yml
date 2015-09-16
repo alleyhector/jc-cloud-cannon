@@ -17,3 +17,6 @@ gzip:
   - .css
   - .md
   - .js
+
+redirects:
+  launch: https://member.citibikenyc.com/offers/25off?promotion=directmail&code=jclaunch
