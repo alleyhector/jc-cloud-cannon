@@ -2,7 +2,10 @@
 layout: default
 ---
 
+{% if site.callout-enabled %}
 {% include callout.html %}
+{% endif %}
+
 {% include hero.html %}
 {% include sponsors.html %}
 
