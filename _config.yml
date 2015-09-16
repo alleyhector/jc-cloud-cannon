@@ -30,9 +30,11 @@ text:
   facebook: https://www.facebook.com/CitiBikeJC
   instagram: https://instagram.com/citibikejc
 
+  callout: Join by 9/30 and get $25 off
+
   city-name: Jersey City
-  hero-heading: Citi Bike is rolling into Jersey City...
-  hero-subheading: Hear the news as it happens
+  hero-heading: Citi Bike is here!
+  hero-subheading: Get Citi Bike updates
   hero-button: stay informed
   hero-image-url: /assets/images/jc-background.jpg
   signup-form-url: '//citibikejc.us11.list-manage.com/subscribe/post?u=db9922af61b48a75cbb0edf87&amp;id=5a1ba0a364'
@@ -50,7 +52,7 @@ text:
   post-date: August 4, 2015
   post-link: http://www.motivateco.com/news/2015/08/04/citi-to-become-title-sponsor-for-jersey-citys-bike-share-program
 
-  map-title: explore planned stations
+  map-title: explore stations
   map-image-url: /assets/images/map.png
   map-link: https://member.citibikenyc.com/map/?latitude=40.72129&longitude=-74.05884&zoom=14
 
