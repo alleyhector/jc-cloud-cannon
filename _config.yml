@@ -15,7 +15,7 @@ markdown: redcarpet
 redcarpet:
   extensions: ["no_intra_emphasis", "fenced_code_blocks", "autolink", "strikethrough", "superscript", "with_toc_data", "smart"]
 
-callout-enabled: true
+callout-enabled: false
 membership-enabled: true
 post-enabled: true
 login-enabled: true
@@ -42,7 +42,7 @@ text:
   signup-form-secret: b_db9922af61b48a75cbb0edf87_5a1ba0a364
 
   login-link: https://member.citibikenyc.com/profile/login
-  signup-link: https://member.citibikenyc.com/offers/newmembers?promotion=jerseycity&code=citibikejc
+  signup-link:  http://citibikenyc.com/redirects/jc/join
 
   sponsors-title: A Thanks To Our Sponsors
   sponsors-left: Title Sponsor
